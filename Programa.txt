@@ -1,0 +1,9 @@
+1. Aunque ya haya explicado dentro del programa lo que realice, lo hago por aqui también. Mi consigna dice
+que "quiere que almacene 20 nombres con sus respectivas edades" lo que yo utilice fueron dos 'arrays' para
+que almacene los 20 nombres y tambien sus respectivas edades. Tambien dice mi consigna que "solo aquellos
+que sean mayor a 20 puedan ingresar al boliche y aquellos que sean menor a 20 muestre un mensaje donde diga
+que vuelva a casa" utilice un For asi recorra los arrays y vaya guardando los datos dentro del sistema 
+y un if y else para darle la condicion del arrays < (menor) de 20 le muestra el mensaje de "Vuelva a casa"
+ y para los que son mayor de 20 mostrar el mensaje de "Que disfrute de la noche" incluyendo tambien que 
+ estoy contando las personas que se van sumando a los que pasan. y cuando termino todo ese bucle me llega
+ el aviso de cuantas personas entraron esa noche. 
