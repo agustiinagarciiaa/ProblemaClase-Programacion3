@@ -28,7 +28,7 @@ namespace Programa
 
             /*Para finalizar utilice if y else para darle la condicion de que si el array de edad 
             es menor de 20 años ¡No puede ingresar! pero si es mayor de edad si puede ingresar al boliche 
-            y tambien le agrego cuantas personas ingresaron en total */
+            y tambien le agrego el ingresaron++ para sumar las personas que vaya entrando*/
                 if (edad [i] < 20)
                 {
                     Console.WriteLine(nombre[i] + " Porfavor vuelva a su casa, cuidese! :D ");
@@ -39,8 +39,8 @@ namespace Programa
                 }
             }
 
-            //Aqui mi consola lee cuantas personas ingresaron en total 
-            
+            //Fuera de mi for utilizo un Console.WriteLine para mostrar el total de personas que ingresaron
+
             Console.WriteLine("Total de personas que ingresaron:  " + ingresaron);
 
             //Fin del ejercicio 
